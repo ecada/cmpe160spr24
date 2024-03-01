@@ -1,0 +1,10 @@
+9
+Ece,44.0
+Suzan,62.0
+Ada,30.0
+Beyza,97.0
+Nur,83.0
+Cansu,92.0
+Er,91.0
+Mehmet,78.0
+Bora,93.0
